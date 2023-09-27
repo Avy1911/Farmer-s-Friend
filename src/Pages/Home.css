@@ -1,0 +1,46 @@
+.home {
+  display: flex;
+}
+
+.col1 {
+  width: 25%;
+}
+
+.col2 {
+  width: 75%;
+  margin-right: 150px;
+}
+
+.list1 {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.list2 {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.list3 {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.cropInformation {
+  color: rgb(0, 0, 0);
+  font-size: larger;
+  list-style: none;
+  margin-right: 15px;
+}
+
+.schedulePlanner {
+  color: rgb(0, 0, 0);
+  font-size: larger;
+  margin-right: 60px;
+}
+
+.marketPlace {
+  color: rgb(0, 0, 0);
+  font-size: larger;
+  margin-right: 15px;
+}
